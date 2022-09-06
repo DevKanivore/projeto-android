@@ -2,13 +2,13 @@
 
 @font-face {
     font-family: 'Beba Neue';
-    src: url(/CSS/fontes/BebasNeue-Regular.ttf) format('truetype');
+    src: url(fontes/BebasNeue-Regular.ttf) format('truetype');
     font-weight: normal;
 }
 
 @font-face {
     font-family: 'Android';
-    src: url(/CSS/fontes/IDroid.otf) format('opentype');
+    src: url(fontes/IDroid.otf) format('opentype');
     font-weight: normal;
 }
 
