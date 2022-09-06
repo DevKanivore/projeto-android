@@ -2,13 +2,13 @@
 
 @font-face {
     font-family: 'Beba Neue';
-    src: url(/Desafios/d010/CSS/fontes/BebasNeue-Regular.ttf) format('truetype');
+    src: url(/CSS/fontes/BebasNeue-Regular.ttf) format('truetype');
     font-weight: normal;
 }
 
 @font-face {
     font-family: 'Android';
-    src: url(/Desafios/d010/CSS/fontes/IDroid.otf) format('opentype');
+    src: url(/CSS/fontes/IDroid.otf) format('opentype');
     font-weight: normal;
 }
 
@@ -65,7 +65,7 @@ header > p {
     padding-left: 10px;
     padding-right: 10px;
     margin: auto;
-    margin-bottom: 20px;
+    padding-bottom: 50px;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.315);
 }
 
